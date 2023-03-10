@@ -1,0 +1,116 @@
+[
+  {
+    "name": "agriculture"
+  },
+  {
+    "name": "construction"
+  },
+  {
+    "name": "consumer goods"
+  },
+  {
+    "name": "energy"
+  },
+  {
+    "name": "finance"
+  },
+  {
+    "name": "healthcare"
+  },
+  {
+    "name": "industrial goods"
+  },
+  {
+    "name": "information technology"
+  },
+  {
+    "name": "materials"
+  },
+  {
+    "name": "real estate"
+  },
+  {
+    "name": "telecommunications"
+  },
+  {
+    "name": "transportation"
+  },
+  {
+    "name": "aerospace and defense"
+  },
+  {
+    "name": "automotive"
+  },
+  {
+    "name": "chemicals"
+  },
+  {
+    "name": "consumer services"
+  },
+  {
+    "name": "education"
+  },
+  {
+    "name": "entertainment"
+  },
+  {
+    "name": "hospitality and tourism"
+  },
+  {
+    "name": "media"
+  },
+  {
+    "name": "non-profit and social enterprises"
+  },
+  {
+    "name": "pharmaceuticals and biotechnology"
+  },
+  {
+    "name": "professional services"
+  },
+  {
+    "name": "retail"
+  },
+  {
+    "name": "utilities"
+  },
+  {
+    "name": "adverstising and marketing"
+  },
+  {
+    "name": "banking and financial services"
+  },
+  {
+    "name": "computer hardware"
+  },
+  {
+    "name": "computer software"
+  },
+  {
+    "name": "e-commerce and online retail"
+  },
+  {
+    "name": "environmental and waste management"
+  },
+  {
+    "name": "government and public administration"
+  },
+  {
+    "name": "insurance"
+  },
+  {
+    "name": "legal services"
+  },
+  {
+    "name": "mining"
+  },
+  {
+    "name": "oil and gas"
+  },
+  {
+    "name": "renewable energy"
+  },
+  {
+    "name": "telecommunications equipment"
+  }
+]
